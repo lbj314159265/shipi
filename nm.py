@@ -7,7 +7,7 @@ st.set_page_config(page_title="视频编辑器", page_icon="🎬")
 media_library = {
     "map1": {
         "image_url": "https://media.9game.cn/gamebase/ieu-gdc-pre-process/images/20230328/4/20/2f125d45598aa2cd0947034f9f82381a.png",
-        "video_url": "https://raw.githubusercontent.com/lbj314159265/你的仓库/main/videos/6月12日.mp4"       
+        "video_url": "https://raw.githubusercontent.com/lbj314159265/-/main/videos/6月12日.mp4"       
     },
     "map2": {
         "image_url": "https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1011/13/c1/5848328_5848328_1289615909062.jpg",
